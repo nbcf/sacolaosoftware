@@ -1,0 +1,1 @@
+nbcf.infra.dao.EntitySerializable
